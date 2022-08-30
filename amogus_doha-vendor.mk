@@ -102,7 +102,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/amogus_doha/proprietary/vendor/etc/sensors/config-doha/tsl2540.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config-doha/tsl2540.json \
     vendor/motorola/amogus_doha/proprietary/vendor/etc/thermal-engine-doha.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-doha.conf \
     vendor/motorola/amogus_doha/proprietary/vendor/firmware/FT8006U_Pramboot.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/FT8006U_Pramboot.bin \
-    vendor/motorola/amogus_doha/proprietary/vendor/firmware/aw8695_haptic.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw8695_haptic.bin \
+    vendor/motorola/amogus_doha/proprietary/vendor/firmware/aw8695_haptic_doha.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw8695_haptic_doha.bin \
     vendor/motorola/amogus_doha/proprietary/vendor/firmware/cs48l32-dsp1-aox.wmfw:$(TARGET_COPY_OUT_VENDOR)/firmware/cs48l32-dsp1-aox.wmfw \
     vendor/motorola/amogus_doha/proprietary/vendor/firmware/ds_Himax_firmware.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/ds_Himax_firmware.bin \
     vendor/motorola/amogus_doha/proprietary/vendor/firmware/focaltech-ft8719-a0-0000-doha.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/focaltech-ft8719-a0-0000-doha.bin \
